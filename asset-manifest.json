@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4798884c.css",
+    "main.js": "/static/js/main.d00c046c.js",
+    "static/js/787.0493fac8.chunk.js": "/static/js/787.0493fac8.chunk.js",
+    "static/media/poteaux.svg": "/static/media/poteaux.089238182762c01642ee0b8a6d5418ed.svg",
+    "static/media/rainbow.svg": "/static/media/rainbow.f94387e2ef8782c9d1999491dedf83ee.svg",
+    "static/media/sun.svg": "/static/media/sun.d03f1634b3faf9d84b35871021db35f0.svg",
+    "static/media/forme.svg": "/static/media/forme.0a6eed1befb90e93a4416c816976e5ec.svg",
+    "static/media/poloco.svg": "/static/media/poloco.d886b454862e341f9991340c6b742013.svg",
+    "static/media/montagne.svg": "/static/media/montagne.c2c0613d3be252d03704e75be19633a2.svg",
+    "static/media/montagnes.svg": "/static/media/montagnes.431bf04cef73b7c46a074cca9f965818.svg",
+    "static/media/formes1.svg": "/static/media/formes1.8abb5abb51b3b0750cdb567ad8691019.svg",
+    "static/media/forme2.svg": "/static/media/forme2.4f4c04a535bfc3ab4e33f46e310d233c.svg",
+    "static/media/pyramides.svg": "/static/media/pyramides.5fef3a88c31ebd6c1e6bdd5640923974.svg",
+    "index.html": "/index.html",
+    "static/media/pyramide1.svg": "/static/media/pyramide1.39c61212a0fed36d550597a455c3777e.svg",
+    "static/media/pyramide2.svg": "/static/media/pyramide2.484dbc1b4cfe508b615ffd98730a0b3a.svg",
+    "main.4798884c.css.map": "/static/css/main.4798884c.css.map",
+    "main.d00c046c.js.map": "/static/js/main.d00c046c.js.map",
+    "787.0493fac8.chunk.js.map": "/static/js/787.0493fac8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4798884c.css",
+    "static/js/main.d00c046c.js"
+  ]
+}
